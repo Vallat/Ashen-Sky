@@ -3,3 +3,12 @@ Inspired by the thrilling, mystical and at the same time exciting and adventurou
 We are aiming at the completely unique experience, that isn't enjoyable for everybody, yet we do it with passion.
 
 For more, check our wiki page, visit game page http://www.byond.com/games/Vallat/AshenSky or join our discord https://discord.com/invite/2Z8xYX5
+
+## Screenshots and videos
+![lobby](https://user-images.githubusercontent.com/10997188/164404611-46d18c08-ed34-4a06-ab15-83abed0d000e.png)
+
+https://user-images.githubusercontent.com/10997188/164404125-2c563825-1932-410f-872e-8c4bea1d1033.mp4
+
+![near_camp](https://user-images.githubusercontent.com/10997188/164404496-ad97ffd0-acc8-43d4-a026-6059a63505eb.jpg)
+
+![outpost](https://user-images.githubusercontent.com/10997188/164404756-bbeeb64c-ccbf-44b5-a89d-95b1d54bf13a.png)
