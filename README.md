@@ -1,4 +1,4 @@
-# Ashen-Sky
+# Верни-Кныша
 Inspired by the thrilling, mystical and at the same time exciting and adventurous worlds of the Roadside Picnic novel, Stalker movie and, of course, famous S.T.A.L.K.E.R. games, Ashen Sky aims to recreate the sensation of being face to face with the vast unknown. The gameplay is harsh and combat is unforgiving, since casual shootouts without serious consequences are not what this codebase aims for; instead, it is about working in teams with different specializations between players as every character has a set of traits that define their parameters, in order to survive, uncover the secrets of the anomalous territories and learn how to make use and profit of your knowledge. It's about being all alone with the absolutely uncaring, alien Zone - one where no admin will magically help you if you get killed by another player, where there are no rules, yet the game punishes playing dumb and aggressive, and the best strategy is being smart and patient.
 We are aiming at the completely unique experience, that isn't enjoyable for everybody, yet we do it with passion.
 
