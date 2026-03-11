@@ -94,7 +94,7 @@
 
       let writeFrom = 0;
 
-      const addMessageBatch = async (messages) => {
+      const addMessageBatch = async (messages) => { if (!messages || messages.length === 0) return;
         const database = await dbPromise;
 
         const trans = database
